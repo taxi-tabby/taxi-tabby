@@ -11,6 +11,7 @@
 </div>
 
 
-`BE` #C #C++ #GO #NODE #PHP 
+### 진행 가능한 언어
+`BE` #GO #NODE #PHP #C #C++  
   
-`FE` #KOTLIN #DART-FLUTTER
+`FE` #KOTLIN #DART-FLUTTER #WEB 
