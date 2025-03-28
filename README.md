@@ -9,5 +9,3 @@
 [![](https://visitcount.itsvg.in/api?id=taxi-tabby&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-툴 있길레 있는 것 중에서 써봤던건 다 눌러봤어.. 다 누르니까 길어졌는데 짜치네 ㅋㅋ
