@@ -10,3 +10,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+툴 있길레 써봤던건 다 눌러봤어.. 다 누르니까 길어졌는데 짜치네 ㅋㅋ
