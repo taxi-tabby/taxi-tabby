@@ -1,3 +1,7 @@
+### Check out my new project!
+**URL:** [https://webapp-sample.example-page.cc/](https://webapp-sample.example-page.cc/)
+
+I'm looking for feedback. If it looks good to you, please let me know your thoughts.
 
 ## 🌐 Socials:
 personal email : [![personal email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkdmf0000@gmail.com) 
